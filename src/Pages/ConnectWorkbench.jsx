@@ -16,7 +16,7 @@ const ConnectWorkbench = () => {
     return (
         <div style={{margin: "4em"}}>
             <div onClick={ () => {window.history.back()}} style={{display: "flex", flexDirection: "row", fontSize: "1.5em"}}>
-                <img  src="src/Pages/2Arrow.svg" alt="voltar" style={{width: "1.5em", height: '1.5em'}} />
+                <img  src="src/Pages/2Arrow.svg" alt="voltar" style={{width: "2em", height: '2em'}} />
                 <h1 style={styleH1}>EDMOND</h1>
             </div>
             <div style={{display:"flexbox" ,textAlign: "center"}}>
